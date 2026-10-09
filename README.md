@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional Certificate Portfolio
 
 **Author:** Syed Yasir Shah  
-**Field:** Full-Stack Web Development & Cybersecurity  
+**Field:**  Cybersecurity & Full-Stack Web Development 
 **Program:** Google Cybersecurity Professional Certificate (Coursera)  
 **Frameworks:** NIST CSF v1.1, NIST SP 800-30 Rev. 1, PCI DSS, GDPR, SOC 2, OWASP  
 
